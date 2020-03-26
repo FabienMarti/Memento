@@ -1,0 +1,67 @@
+body {
+    height: auto;
+    margin-left: 400px;
+    width: auto;
+    text-align: left;
+    float: left;
+    background-color: salmon;
+}
+
+.bigTitle {
+    font-size: 400%;
+    text-align: center;
+}
+
+#flechehaut {
+    height: auto;
+    width: 50px;
+}
+
+.important {
+    background-color: red;
+}
+
+#navFieldSet,
+#navFieldSet legend {
+    background-color: royalblue;
+}
+
+#navMenu {
+    float: left;
+    margin: 20px;
+    position: fixed;
+    left: 0;
+    top: 25%;
+}
+
+nav li {
+    list-style: none;
+}
+
+h1,
+h2 {
+    text-decoration: underline;
+}
+
+#sideInfos {
+    float: right;
+    height: auto;
+    width: 20%;
+    padding-top: 1.72em;
+}
+
+#containder {
+    border: 1px solid black;
+}
+
+.imgHtml {
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+}
+
+.imgCSS {
+    width: 75px;
+    height: 100px;
+    background-size: cover;
+}
