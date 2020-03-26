@@ -54,11 +54,23 @@ h2 {
     width: 100px;
     height: 100px;
     background-size: cover;
-    border: 1px solid black;
 }
 
 .imgCSS {
     width: 75px;
     height: 100px;
+    background-size: cover;
+}
+
+.imgphp {
+    width: 75px;
+    height: 50px;
+    padding: 20px;
+    background-size: cover;
+}
+
+.imgJS {
+    width: 75px;
+    height: 80px;
     background-size: cover;
 }

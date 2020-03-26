@@ -18,21 +18,21 @@
                         <li><a href="#foot"></a></li>
                     </ol>
                 </li>
-                <li><strong>Les formulaires</strong>
+                <li><strong>Les attributs</strong>
                     <ol>
-                        <li><a href="#formElem">L'élement Form</a></li>
-                        <li><a href="#inputElem">L'élement Input</a></li>
+                        <li><a href="#formElem"></a></li>
+                        <li><a href="#inputElem"></a></li>
                         <ul>
-                            <li><a href="#inputImportant">Important</a></li>
-                            <li><a href="#typeText">Les types Text et Nom</a></li>
-                            <li><a href="#button">Les boutons</a></li>
+                            <li><a href="#inputImportant"></a></li>
+                            <li><a href="#typeText"></a></li>
+                            <li><a href="#button"></a></li>
                         </ul>
                     </ol>
                 </li>
-                <li><strong>Les tableaux</strong>
+                <li><strong></strong>
                     <ol>
-                        <li><a href="#mainTags">Balises principales</a></li>
-                        <li><a href="#tags">Balises internes au tableau</a></li>
+                        <li><a href="#mainTags"></a></li>
+                        <li><a href="#tags"></a></li>
                     </ol>
                 </li>
             </ul>
@@ -41,12 +41,16 @@
             </a>
         </fieldset>
     </nav>
+    <div><?php include("../php/header.php"); ?></div>
 </header>
 
 <body>
-
-
-
+    <section>
+        <fieldset>
+        <legend class="bigTitle">Structure générale</legend>
+        <h1></h1>
+        </fieldset>
+    </section>
 </body>
 
 </html>

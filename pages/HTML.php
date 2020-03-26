@@ -7,11 +7,12 @@
     <title>📃 Memento HTML 📃</title>
 </head>
 <header>
+<a id="haut"></a>
     <nav id="navMenu">
         <fieldset id="navFieldSet">
             <legend>Menu de Navigation</legend>
             <ul>
-                <li><strong>Structure générale</strong>
+                <li><strong>Structure d'une page</strong>
                     <ol>
                         <li><a href="#head">En-tête</a></li>
                         <li><a href="#body">Corps de la page</a></li>
@@ -45,7 +46,6 @@
 </header>
 
 <body>
-    <a id="haut"></a>
     <aside id="sideInfos">
         <fieldset>
             <legend>C'est quoi le HTML 5 ?</legend>
@@ -67,7 +67,7 @@
             <ul>
                 <li>Une balise <strong>&lt;meta charset="UTF-8" /&gt;</strong>,</li>
                 <li>Un titre contenu dans <strong>&lt;title&gt; &lt;/title&gt;</strong> qui s'affichera sur l'onglet,</li>
-                <li>Et au besoin, de liens <strong>&lt;link /&gt;</strong> pour lier sa page a un fichier CSS ou JS,</li>
+                <li>Un lien <strong>&lt;link /&gt;</strong> pour lier sa page a un fichier CSS</li>
             </ul>
             <p>Exemple : </p>
             <image src="../images/head.jpg" />
