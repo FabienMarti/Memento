@@ -59,6 +59,27 @@
         <image src="../images/CSS_body.jpg"/>
         </fieldset> 
     </section>
+    <section>
+    <fieldset>
+    <legend class="bigTitle">Les selecteurs</legend>
+    <h1>Les selecteurs de type balises</h1>
+    <p>Pour sélectionner les portions de texte ou les balises principales à modifier on peut facilement utiliser des balises en tant que selecteur : </p>
+    <ul>
+        <li>p, </li>
+        <li>h1 à 6, </li>
+        <li>section, </li>
+        <li>body, etc</li>
+    </ul>
+    <h1>Combinaisons de selecteurs</h1>
+    <p>On peut utiliser plusieurs selecteur pour le meme code CSS, de ce fait on peut dire par exemple que l'on veut h1, h2, et legend en gras; Exemple : </p>
+    <image src="../images/CSS_selecteurs.jpg" />
+    <p>Il suffit simplement de mettre des virgules entre chaque selecteur. </p>
+    <h1>Utilisation Parent/Enfant</h1>
+    <p>Pour simplifier son code CSS on peut utiliser l'héritage, c'est à dire l'enfant d'un parent, si par exemple je veux que toutes les lignes d'une liste à puce ul soient sur fond vert mais que celles de la liste ol restent normales : </p>
+    <image src="../images/CSS_heritage.jpg" />
+    <p>Il suffit d'indiquer comme selecteur le parent suivit de l'enfant</p>
+    </fieldset>
+    </section>
 </body>
 
 </html>
