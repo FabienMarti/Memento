@@ -48,10 +48,16 @@
     <section>
         <fieldset>
         <legend class="bigTitle">Structure générale</legend>
-        <h1></h1>
-        </fieldset>
-
-        
+        <h1>Syntaxe du CSS</h1>
+        <p>Le CSS s'écrit de la manière suivante : </p>
+        <ul>
+            <li>un selecteur type : h1, body et d'autres</li>
+            <li>des accolades qui engloberont le code { }</li>
+            <li>du code pour modifier la balise selectionnée, la class ou l'id</li>
+        </ul>
+        <p>Je veux modifier la largeur de mon body à 800px et mettre une hauteur automatique, Exemple : </p>
+        <image src="../images/CSS_body.jpg"/>
+        </fieldset> 
     </section>
 </body>
 
